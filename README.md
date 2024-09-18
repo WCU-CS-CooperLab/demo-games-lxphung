@@ -1,11 +1,15 @@
 # GamePublish
 A template repository to publish games
 
+Coin Dash
+
 [Player_Scene](player_scene)
 
 [Player_Scene_8_30](player_scene_8_30)
 
 [Main_Scene_9_4](main_scene_9_4)
+
+Space Rocks
 
 [Player_Scene_9_9](player_scene_9_9)
 
@@ -14,8 +18,6 @@ A template repository to publish games
 [Main_Scene_9_11_try2](sr_main_9_11_try2)
 
 [Main_Scene_9_11_try3](sr_main_9_11_try3)
-
-Space Rocks 
 
 [Main_Scene_9_13](main_scene_9_13)
 
