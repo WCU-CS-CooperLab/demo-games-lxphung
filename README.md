@@ -9,6 +9,8 @@ Coin Dash
 
 [Main_Scene_9_4](main_scene_9_4)
 
+[Coin-Dash-2-Phase-1](coin-dash-2-phase-1)
+
 Space Rocks
 
 [Player_Scene_9_9](player_scene_9_9)
