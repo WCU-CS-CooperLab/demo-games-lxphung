@@ -11,7 +11,7 @@ Coin Dash
 
 [Project_1_Phase_1](coin-dash-2-phase-1)
 
-[Project_1_Phase_2_uncomplete](hockey_dash_9_25)
+[Project_1_Phase_2_incomplete](hockey_dash_9_25)
 
 Space Rocks
 
