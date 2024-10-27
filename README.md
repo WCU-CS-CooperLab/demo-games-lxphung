@@ -39,7 +39,7 @@ Jungle Jump
 
 [Project_2_Phase_2](project2_phase2_10_24)
 
-Infinite Flter
+Infinite Flyer
 
 [Main_Scene_10_18](scene_10_18)
 
