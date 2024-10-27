@@ -41,6 +41,6 @@ Jungle Jump
 
 Infinite Flyer
 
-[Main_Scene_10_18](scene_10_18)
+[Main_Scene_10_18](scene_10_18_2)
 
 
