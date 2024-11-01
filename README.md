@@ -1,6 +1,25 @@
 # GamePublish
 A template repository to publish games
 
+Project 1
+
+[Project_1_Phase_1](coin-dash-2-phase-1)
+
+[Project_1_Phase_2_incomplete](hockey_dash_9_25)
+
+[Project_1_Phase_2_incomplete_2](hockey_dash_9_25_2)
+
+[Project_1_Phase_2_complete](project1_phase2_10_28)
+
+
+Project 2
+
+[Project_2_Phase_1](project2_phase1_10_14)
+
+[Project_2_Phase_2](project2_phase2_10_24)
+[Project_2_Phase_2_complete](project2_phase2_11_1)
+
+
 Coin Dash
 
 [Player_Scene](player_scene)
@@ -9,13 +28,6 @@ Coin Dash
 
 [Main_Scene_9_4](main_scene_9_4)
 
-[Project_1_Phase_1](coin-dash-2-phase-1)
-
-[Project_1_Phase_2_incomplete](hockey_dash_9_25)
-
-[Project_1_Phase_2_incomplete_2](hockey_dash_9_25_2)
-
-[Project_1_Phase_2](project1_phase2_10_28)
 
 Space Rocks
 
@@ -37,9 +49,6 @@ Jungle Jump
 
 [Scene_10_4](scene_10_4)
 
-[Project_2_Phase_1](project2_phase1_10_14)
-
-[Project_2_Phase_2](project2_phase2_10_24)
 
 Infinite Flyer
 
