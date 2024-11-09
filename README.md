@@ -22,7 +22,7 @@ Project 2
 
 Project 3
 
-[Project_3_Phase_1](mini-golf-project3-phase1)
+[Project_3_Phase_1](mini-golf-project3-phase-1)
 
 
 Coin Dash
