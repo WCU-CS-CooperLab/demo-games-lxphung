@@ -20,6 +20,10 @@ Project 2
 
 [Project_2_Phase_2_complete](project2_phase2_11_1)
 
+Project 3
+
+[Project_3_Phase_1](mini-golf-project3-phase-1)
+
 
 Coin Dash
 
