@@ -28,7 +28,7 @@ Project 3
 
 Team Project 1
 
-[Adventures of Blobby](Adventures of Blobby)
+[Adventures of Blobby](Adventures_of_Blobby)
 
 
 Coin Dash
