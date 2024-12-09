@@ -42,10 +42,8 @@ Team Project 1
 
 Team Project 2
 
-[RatRace Windows](rat_race_Windows.exe)
 
-
-[RatRace Mac](rat_race_macOS.dmg)
+[RatRace Mac](RatRace.dmg)
 
 
 
