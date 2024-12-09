@@ -44,7 +44,7 @@ Team Project 2
 
 [RatRace Windows](rat_race_Windows.exe)
 
-[RatRate Mac](rat_race_macOS.dmg)
+[RatRace Mac](rat_race_macOS.dmg)
 
 
 
