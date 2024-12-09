@@ -40,6 +40,12 @@ Team Project 1
 
 [Adventures of Blobby](Adventures_of_Blobby)
 
+Team Project 2
+
+[RatRace Windows](rat_race_Windows.exe)
+
+[RatRate Mac](rat_race_macOS.dmg)
+
 
 Coin Dash
 
