@@ -47,6 +47,9 @@ Team Project 2
 [RatRate Mac](rat_race_macOS.dmg)
 
 
+
+Class Progress
+
 Coin Dash
 
 [Player_Scene](player_scene)
