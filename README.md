@@ -42,6 +42,7 @@ Team Project 1
 
 Team Project 2
 
+[RatRace Windows](ratRace_Windows)
 
 [RatRace Mac](ratRace_mac_fin.dmg)
 
