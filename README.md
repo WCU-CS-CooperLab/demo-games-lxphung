@@ -45,7 +45,7 @@ Team Project 1
 Team Project 2
 
 
-[RatRace Mac](RatRace.dmg)
+[RatRace Mac](ratRace_mac_fin.dmg)
 
 
 
