@@ -1,5 +1,5 @@
 # GamePublish
-A template repository to publish games
+A repository to publish games
 
 Project 1
 
