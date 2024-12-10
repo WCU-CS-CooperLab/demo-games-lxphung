@@ -50,7 +50,7 @@ Team Project 2
 
 
 
-Class Progress
+<h2>Class Progress</h2>
 
 Coin Dash
 
