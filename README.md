@@ -26,8 +26,6 @@ Project 3
 
 [Project_3_Phase_1](mini_golf_11_9)
 
-[Project 3](mini_golf_1_export)
-
 [Project_3_Phase_2](myminigolf_11_15_2)
 
 [Project_3_Phase_2](mini_golf_12_5)
@@ -45,7 +43,7 @@ Team Project 1
 Team Project 2
 
 
-[RatRace Mac](RatRace.dmg)
+[RatRace Mac](ratRace_mac_fin.dmg)
 
 
 
